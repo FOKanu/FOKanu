@@ -10,6 +10,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  ![trophy](https://github-profile-trophy.vercel.app/?username=FOKanu&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+</div>
+
+---
+
 ## 🎯 About Me
 
 > *"Where medical science meets machine learning to solve real-world problems"*
@@ -92,27 +100,27 @@ I'm a **Data Scientist & AI Engineer** passionate about building intelligent sol
 <div align="center">
 
 ### 🐍 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🎯 Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Specialist-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-Advanced-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Advanced-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Advanced-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Intermediate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-Advanced-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Advanced-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
@@ -160,6 +168,21 @@ I'm a **Data Scientist & AI Engineer** passionate about building intelligent sol
 
 ---
 
+## 🎯 Current Goals
+
+<details>
+  <summary>Click to see my current goals</summary>
+
+  - [ ] Launch DoctAI in production with clinical validation
+  - [ ] Complete advanced cybersecurity certification (OSCP)
+  - [ ] Publish research paper on medical AI applications
+  - [ ] Reach 1000+ GitHub stars across projects
+  - [ ] Contribute to major open-source healthcare projects
+  - [ ] Develop federated learning framework for medical data
+</details>
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -203,5 +226,5 @@ I'm a **Data Scientist & AI Engineer** passionate about building intelligent sol
 
   <br/>
 
-  ![Snake animation](https://github.com/FOKanu/-francis-ik/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/FOKanu/francis-ik/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
