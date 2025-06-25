@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=francis-ik&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=FOKanu&style=flat-square&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen" alt="Status" />
   <img src="https://img.shields.io/badge/Location-Global%20%7C%20Remote-blue" alt="Location" />
 </div>
@@ -31,8 +31,8 @@ I'm a **Data Scientist & AI Engineer** passionate about building intelligent sol
     <td width="50%">
       <h3 align="center">🩺 DoctAI Health Hub</h3>
       <p align="center">
-        <a href="https://github.com/francis-ik/doctai-health-hub" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=francis-ik&repo=doctai-health-hub&theme=radical&hide_border=true" />
+        <a href="https://github.com/FOKanu/doctai-health-hub" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=FOKanu&repo=doctai-health-hub&theme=radical&hide_border=true" />
         </a>
       </p>
       <p align="center">
@@ -44,8 +44,8 @@ I'm a **Data Scientist & AI Engineer** passionate about building intelligent sol
     <td width="50%">
       <h3 align="center">💰 Oasis Finanz</h3>
       <p align="center">
-        <a href="https://github.com/francis-ik/oasis-finanz" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=francis-ik&repo=oasis-finanz&theme=radical&hide_border=true" />
+        <a href="https://github.com/FOKanu/oasis-finanz" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=FOKanu&repo=oasis-finanz&theme=radical&hide_border=true" />
         </a>
       </p>
       <p align="center">
@@ -59,8 +59,8 @@ I'm a **Data Scientist & AI Engineer** passionate about building intelligent sol
     <td width="50%">
       <h3 align="center">🔍 Spot Check Insight</h3>
       <p align="center">
-        <a href="https://github.com/francis-ik/spot-check-insight" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=francis-ik&repo=spot-check-insight&theme=radical&hide_border=true" />
+        <a href="https://github.com/FOKanu/spot-check-insight" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=FOKanu&repo=spot-check-insight&theme=radical&hide_border=true" />
         </a>
       </p>
       <p align="center">
@@ -72,8 +72,8 @@ I'm a **Data Scientist & AI Engineer** passionate about building intelligent sol
     <td width="50%">
       <h3 align="center">📱 TeleDermatology App</h3>
       <p align="center">
-        <a href="https://github.com/francis-ik/tele-dermatology-app" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=francis-ik&repo=tele-dermatology-app&theme=radical&hide_border=true" />
+        <a href="https://github.com/FOKanu/tele-dermatology-app" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=FOKanu&repo=tele-dermatology-app&theme=radical&hide_border=true" />
         </a>
       </p>
       <p align="center">
@@ -121,12 +121,12 @@ I'm a **Data Scientist & AI Engineer** passionate about building intelligent sol
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=francis-ik&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francis-ik&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FOKanu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOKanu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francis-ik&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FOKanu&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -203,5 +203,5 @@ I'm a **Data Scientist & AI Engineer** passionate about building intelligent sol
 
   <br/>
 
-  ![Snake animation](https://github.com/francis-ik/francis-ik/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/FOKanu/-francis-ik/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
