@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Francis+I.K.%F0%9F%91%8B;Clinical+Medicine+%2B+Fullstack+Engineering;Building+healthcare+technology+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Francis+I.K.%F0%9F%91%8B;Clinical+Medicine+%2B+Fullstack+Engineering;Building+healthcare+technology+solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -222,7 +222,8 @@ I'm a **Fullstack Engineer & Healthcare Technology Specialist** with a strong fo
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Ready+to+build+healthcare+solutions+that+make+a+difference!+%F0%9F%9A%80;Let's+transform+healthcare+technology+together+%F0%9F%92%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Ready+to+build+healthcare+solutions+that+make+a+difference!+%F0%9F%9A%80;Let's+transform+healthcare+technology+together+%F0%9F%92%9C" alt="Typing SVG" />
+</div>
 
   <br/>
 
