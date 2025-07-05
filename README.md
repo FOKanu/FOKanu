@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Francis+I.K.%F0%9F%91%8B;Medical+Science+%2B+ML+%3D+Innovation;Building+the+future+of+healthcare+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Francis+I.K.%F0%9F%91%8B;Clinical+Medicine+%2B+Fullstack+Engineering;Building+healthcare+technology+solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,15 +20,15 @@
 
 ## 🎯 About Me
 
-> *"Where medical science meets machine learning to solve real-world problems"*
+> *"Where clinical expertise meets fullstack engineering to build transformative healthcare solutions"*
 
-I'm a **Data Scientist & AI Engineer** passionate about building intelligent solutions that bridge the gap between healthcare, cybersecurity, and finance. My journey combines clinical insights with cutting-edge ML to create tools that make a difference.
+I'm a **Fullstack Engineer & Healthcare Technology Specialist** with a strong foundation in clinical medicine and IT project management. My unique background combines medical knowledge with technical expertise to create innovative healthcare solutions that improve patient care and streamline clinical workflows.
 
 ### 🧬 Core Focus Areas
-- **🩺 Healthcare AI**: Telemedicine platforms, medical image analysis, patient care optimization
-- **🔐 Cybersecurity**: Ethical hacking, network defense, malware analysis
-- **💰 Financial Technology**: Predictive analytics, risk assessment, automated trading
-- **🔬 Bioinformatics**: Genomic data analysis, drug discovery, clinical research
+- **🩺 Healthcare Technology**: Clinical systems, telemedicine platforms, medical data management
+- **💻 Fullstack Development**: End-to-end application development, system architecture, user experience design
+- **📋 IT Project Management**: Healthcare IT implementation, system integration, clinical workflow optimization
+- **🔬 Clinical Informatics**: Medical data analysis, clinical decision support, healthcare analytics
 
 ---
 
@@ -50,16 +50,16 @@ I'm a **Data Scientist & AI Engineer** passionate about building intelligent sol
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">💰 Oasis Finanz</h3>
+      <h3 align="center">🏥 Clinical Management System</h3>
       <p align="center">
-        <a href="https://github.com/FOKanu/oasis-finanz" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=FOKanu&repo=oasis-finanz&theme=radical&hide_border=true" />
+        <a href="https://github.com/FOKanu/clinical-management-system" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=FOKanu&repo=clinical-management-system&theme=radical&hide_border=true" />
         </a>
       </p>
       <p align="center">
-        <strong>Personal finance management & analytics</strong><br/>
-        ML-powered budgeting, forecasting & investment insights<br/>
-        <em>React • TypeScript • Python • ML • Supabase</em>
+        <strong>Comprehensive clinical workflow management</strong><br/>
+        Patient records, scheduling & clinical decision support<br/>
+        <em>React • TypeScript • Node.js • MongoDB • Docker</em>
       </p>
     </td>
   </tr>
@@ -106,10 +106,10 @@ I'm a **Data Scientist & AI Engineer** passionate about building intelligent sol
 ![SQL](https://img.shields.io/badge/SQL-Advanced-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🎯 Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Specialist-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![React](https://img.shields.io/badge/React-Advanced-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-Advanced-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Specialist-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-Advanced-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -119,7 +119,7 @@ I'm a **Data Scientist & AI Engineer** passionate about building intelligent sol
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-Advanced-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-Advanced-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
@@ -142,9 +142,9 @@ I'm a **Data Scientist & AI Engineer** passionate about building intelligent sol
 ## 🎓 Certifications & Education
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Le_Wagon-Data_Science_%26_AI-FF6B6B?style=for-the-badge&logo=le-wagon&logoColor=white" alt="Le Wagon" />
-  <img src="https://img.shields.io/badge/Medical_Science-Clinical_Research-4ECDC4?style=for-the-badge&logo=medical&logoColor=white" alt="Medical Science" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Ethical_Hacking-FF6B35?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Clinical_Medicine-Healthcare_Technology-4ECDC4?style=for-the-badge&logo=medical&logoColor=white" alt="Clinical Medicine" />
+  <img src="https://img.shields.io/badge/Fullstack_Engineering-Web_Development-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Fullstack Engineering" />
+  <img src="https://img.shields.io/badge/IT_Project_Management-Healthcare_IT-FF6B35?style=for-the-badge&logo=project&logoColor=white" alt="IT Project Management" />
 </div>
 
 ---
@@ -154,15 +154,15 @@ I'm a **Data Scientist & AI Engineer** passionate about building intelligent sol
 <div align="center">
 
 ### 🔬 Active Research Areas
-- **🧬 Bioinformatics**: Genomic data analysis & drug discovery pipelines
-- **🔐 Cybersecurity**: Reverse engineering & penetration testing
-- **🤖 Advanced ML**: Transformer models & federated learning
-- **📱 Mobile AI**: Edge computing for healthcare applications
+- **🏥 Clinical Informatics**: Electronic health records & clinical decision support systems
+- **🤖 Healthcare AI**: Medical image analysis & predictive analytics for patient care
+- **📱 Mobile Health**: Telemedicine applications & remote patient monitoring
+- **🔬 Medical Data Science**: Clinical data analysis & healthcare analytics
 
 ### 📚 Currently Learning
-- **🕵️ CTF Challenges**: Reverse engineering & exploit development
-- **🧠 Large Language Models**: Fine-tuning for medical applications
-- **⚡ High-Performance Computing**: GPU optimization & distributed systems
+- **🏥 Healthcare IT Standards**: HL7 FHIR & interoperability standards
+- **🧠 Medical AI**: Clinical decision support & diagnostic assistance
+- **⚡ Healthcare DevOps**: CI/CD for clinical applications & compliance
 
 </div>
 
@@ -174,11 +174,11 @@ I'm a **Data Scientist & AI Engineer** passionate about building intelligent sol
   <summary>Click to see my current goals</summary>
 
   - [ ] Launch DoctAI in production with clinical validation
-  - [ ] Complete advanced cybersecurity certification (OSCP)
-  - [ ] Publish research paper on medical AI applications
-  - [ ] Reach 1000+ GitHub stars across projects
+  - [ ] Complete healthcare IT project management certification
+  - [ ] Publish research paper on clinical AI applications
+  - [ ] Reach 1000+ GitHub stars across healthcare projects
   - [ ] Contribute to major open-source healthcare projects
-  - [ ] Develop federated learning framework for medical data
+  - [ ] Develop clinical workflow optimization framework
 </details>
 
 ---
@@ -207,22 +207,22 @@ I'm a **Data Scientist & AI Engineer** passionate about building intelligent sol
 <div align="center">
 
 ### 🎯 Personal Interests
-- **🎮 Gaming**: Strategy games & competitive programming
-- **📚 Sci-Fi**: Medical thrillers & AI ethics literature
-- **🏃‍♂️ Fitness**: Marathon training & health optimization
-- **🌍 Global Health**: Medical equity & accessible healthcare
+- **🏥 Healthcare Innovation**: Medical technology & patient care improvement
+- **📚 Medical Literature**: Clinical research & healthcare technology trends
+- **🏃‍♂️ Health & Wellness**: Preventive medicine & lifestyle optimization
+- **🌍 Global Health**: Medical equity & accessible healthcare technology
 
 ### 🏆 Achievements
-- **🏥 Healthcare Innovation**: Developed AI tools used in clinical settings
-- **🔬 Research Publications**: Contributing to medical AI research
-- **🎓 Continuous Learning**: Always expanding skill set & knowledge base
+- **🏥 Healthcare Technology**: Developed clinical tools used in medical settings
+- **🔬 Clinical Research**: Contributing to medical technology research
+- **🎓 Continuous Learning**: Always expanding clinical & technical knowledge
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Ready+to+collaborate+on+the+next+big+thing!+%F0%9F%9A%80;Let's+build+the+future+together+%F0%9F%92%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Ready+to+build+healthcare+solutions+that+make+a+difference!+%F0%9F%9A%80;Let's+transform+healthcare+technology+together+%F0%9F%92%9C" alt="Typing SVG" />
 
   <br/>
 
