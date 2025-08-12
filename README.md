@@ -8,6 +8,12 @@
   <img src="https://img.shields.io/badge/Location-Global%20%7C%20Remote-blue" alt="Location" />
 </div>
 
+<div align="center">
+  <a href="https://francis-kanu-innovate.lovable.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Web%20Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Web Portfolio" />
+  </a>
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -34,64 +40,19 @@ I'm a **Fullstack Engineer & Healthcare Technology Specialist** with a strong fo
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🩺 DoctAI Health Hub</h3>
-      <p align="center">
-        <a href="https://github.com/FOKanu/doctai-health-hub" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=FOKanu&repo=doctai-health-hub&theme=radical&hide_border=true" />
-        </a>
-      </p>
-      <p align="center">
-        <strong>AI-powered telemedicine platform</strong><br/>
-        Skin diagnostics, appointment scheduling & patient tracking<br/>
-        <em>Python • FastAPI • TensorFlow • React • PostgreSQL</em>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏥 Clinical Management System</h3>
-      <p align="center">
-        <a href="https://github.com/FOKanu/clinical-management-system" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=FOKanu&repo=clinical-management-system&theme=radical&hide_border=true" />
-        </a>
-      </p>
-      <p align="center">
-        <strong>Comprehensive clinical workflow management</strong><br/>
-        Patient records, scheduling & clinical decision support<br/>
-        <em>React • TypeScript • Node.js • MongoDB • Docker</em>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔍 Spot Check Insight</h3>
-      <p align="center">
-        <a href="https://github.com/FOKanu/spot-check-insight" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=FOKanu&repo=spot-check-insight&theme=radical&hide_border=true" />
-        </a>
-      </p>
-      <p align="center">
-        <strong>Skin lesion analysis platform</strong><br/>
-        Computer vision for early cancer detection<br/>
-        <em>TensorFlow • OpenCV • React • Mobile App</em>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📱 TeleDermatology App</h3>
-      <p align="center">
-        <a href="https://github.com/FOKanu/tele-dermatology-app" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=FOKanu&repo=tele-dermatology-app&theme=radical&hide_border=true" />
-        </a>
-      </p>
-      <p align="center">
-        <strong>Mobile dermatology consultation</strong><br/>
-        Real-time skin analysis & AI-powered diagnostics<br/>
-        <em>React Native • TensorFlow Lite • Firebase</em>
-      </p>
-    </td>
-  </tr>
-</table>
+Reflecting current public activity:
+
+- <a href="https://github.com/FOKanu/My-Web-Portfolio-" target="_blank"><strong>My Web Portfolio</strong></a> — Portfolio website with projects and contact.
+- <a href="https://github.com/FOKanu/My_MNIST_Image_Classification" target="_blank"><strong>My MNIST Image Classification</strong></a> — Handwritten digit recognition experiments.
+- <a href="https://github.com/FOKanu/SkinCancerCheckMobile" target="_blank"><strong>SkinCancerCheckMobile</strong></a> — Mobile app for capturing and organizing skin lesion images.
+- <a href="https://github.com/FOKanu/NBA-Performance-Analytics-with-Linear-Regression" target="_blank"><strong>NBA Performance Analytics (Linear Regression)</strong></a> — Modeling NBA metrics with linear regression.
+- <a href="https://github.com/FOKanu/NBA-Performance-Analysis-" target="_blank"><strong>NBA Performance Analysis</strong></a> — Exploratory analytics and visuals on NBA datasets.
+
+<div align="center">
+  <a href="https://francis-kanu-innovate.lovable.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20More-Visit%20my%20Web%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Web Portfolio" />
+  </a>
+</div>
 
 ---
 
@@ -189,8 +150,8 @@ I'm a **Fullstack Engineer & Healthcare Technology Specialist** with a strong fo
   <a href="https://linkedin.com/in/francis-i-k-817254286" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://gamma.app/docs/sprcsynohthr6dp" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
+  <a href="https://francis-kanu-innovate.lovable.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:francis.ik@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
