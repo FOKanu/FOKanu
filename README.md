@@ -40,13 +40,25 @@ I'm a **Fullstack Engineer & Healthcare Technology Specialist** with a strong fo
 
 ## 🚀 Featured Projects
 
-Reflecting current public activity:
+Reflecting current public activity (with brief summaries and tech stacks):
 
-- <a href="https://github.com/FOKanu/My-Web-Portfolio-" target="_blank"><strong>My Web Portfolio</strong></a> — Portfolio website with projects and contact.
-- <a href="https://github.com/FOKanu/My_MNIST_Image_Classification" target="_blank"><strong>My MNIST Image Classification</strong></a> — Handwritten digit recognition experiments.
-- <a href="https://github.com/FOKanu/SkinCancerCheckMobile" target="_blank"><strong>SkinCancerCheckMobile</strong></a> — Mobile app for capturing and organizing skin lesion images.
-- <a href="https://github.com/FOKanu/NBA-Performance-Analytics-with-Linear-Regression" target="_blank"><strong>NBA Performance Analytics (Linear Regression)</strong></a> — Modeling NBA metrics with linear regression.
-- <a href="https://github.com/FOKanu/NBA-Performance-Analysis-" target="_blank"><strong>NBA Performance Analysis</strong></a> — Exploratory analytics and visuals on NBA datasets.
+- <a href="https://github.com/FOKanu/My-Web-Portfolio-" target="_blank"><strong>My Web Portfolio</strong></a> — Modern, responsive personal site showcasing projects and contact.
+  - <em>Tech:</em> Next.js • TypeScript • React • Tailwind CSS • Vercel
+
+- <a href="https://github.com/FOKanu/doctai-health-hub" target="_blank"><strong>DoctAI Health Hub</strong></a> — AI-powered telemedicine platform for skin diagnostics, appointment scheduling, and patient tracking.
+  - <em>Tech:</em> Python • FastAPI • TensorFlow • React • PostgreSQL • Docker
+
+- <a href="https://github.com/FOKanu/SkinCancerCheckMobile" target="_blank"><strong>SkinCancerCheckMobile</strong></a> — Mobile app enabling remote capture and triage of skin lesion images.
+  - <em>Tech:</em> React Native • Expo • TensorFlow Lite • Firebase
+
+- <a href="https://github.com/FOKanu/My_MNIST_Image_Classification" target="_blank"><strong>My MNIST Image Classification</strong></a> — Notebooks comparing baseline and CNN models on MNIST with experiment tracking.
+  - <em>Tech:</em> Python • Jupyter • PyTorch/TensorFlow • NumPy • scikit-learn
+
+- <a href="https://github.com/FOKanu/NBA-Performance-Analytics-with-Linear-Regression" target="_blank"><strong>NBA Performance Analytics (Linear Regression)</strong></a> — Building linear models to explain and predict performance metrics.
+  - <em>Tech:</em> Python • pandas • scikit-learn • matplotlib • Jupyter
+
+- <a href="https://github.com/FOKanu/NBA-Performance-Analysis-" target="_blank"><strong>NBA Performance Analysis</strong></a> — Exploratory analysis and visualizations on NBA datasets.
+  - <em>Tech:</em> Python • pandas • seaborn • Jupyter
 
 <div align="center">
   <a href="https://francis-kanu-innovate.lovable.app/" target="_blank">
