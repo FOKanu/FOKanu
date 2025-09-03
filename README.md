@@ -42,8 +42,8 @@ I'm a **Fullstack Engineer & Healthcare Technology Specialist** with a strong fo
 
 Reflecting current public activity (with brief summaries and tech stacks):
 
-- <a href="https://github.com/FOKanu/My-Web-Portfolio-" target="_blank"><strong>My Web Portfolio</strong></a> — Modern, responsive personal site showcasing projects and contact.
-  - <em>Tech:</em> Next.js • TypeScript • React • Tailwind CSS • Vercel
+- <a href="https://github.com/FOKanu/berlin-connect" target="_blank"><strong>Berlin Connect</strong></a> — A platform connecting people in Berlin for networking and community building.
+  - <em>Tech:</em> React • Node.js • Express • MongoDB • Socket.io
 
 - <a href="https://github.com/FOKanu/doctai-health-hub" target="_blank"><strong>DoctAI Health Hub</strong></a> — AI-powered telemedicine platform for skin diagnostics, appointment scheduling, and patient tracking.
   - <em>Tech:</em> Python • FastAPI • TensorFlow • React • PostgreSQL • Docker
@@ -53,9 +53,6 @@ Reflecting current public activity (with brief summaries and tech stacks):
 
 - <a href="https://github.com/FOKanu/My_MNIST_Image_Classification" target="_blank"><strong>My MNIST Image Classification</strong></a> — Notebooks comparing baseline and CNN models on MNIST with experiment tracking.
   - <em>Tech:</em> Python • Jupyter • PyTorch/TensorFlow • NumPy • scikit-learn
-
-- <a href="https://github.com/FOKanu/NBA-Performance-Analytics-with-Linear-Regression" target="_blank"><strong>NBA Performance Analytics (Linear Regression)</strong></a> — Building linear models to explain and predict performance metrics.
-  - <em>Tech:</em> Python • pandas • scikit-learn • matplotlib • Jupyter
 
 - <a href="https://github.com/FOKanu/NBA-Performance-Analysis-" target="_blank"><strong>NBA Performance Analysis</strong></a> — Exploratory analysis and visualizations on NBA datasets.
   - <em>Tech:</em> Python • pandas • seaborn • Jupyter
@@ -73,27 +70,34 @@ Reflecting current public activity (with brief summaries and tech stacks):
 <div align="center">
 
 ### 🐍 Programming Languages
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🎯 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-Advanced-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Specialist-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-Intermediate-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Intermediate-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-Intermediate-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🤖 Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Intermediate-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Intermediate-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Intermediate-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-Advanced-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Intermediate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Beginner-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Beginner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Intermediate-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Advanced-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Beginner-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Intermediate-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
@@ -104,10 +108,6 @@ Reflecting current public activity (with brief summaries and tech stacks):
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FOKanu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOKanu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FOKanu&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
