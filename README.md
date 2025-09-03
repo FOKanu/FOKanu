@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=1200&h=300&fit=crop&crop=center" alt="DNA Healthcare Technology" style="width: 100%; max-width: 1200px; height: 300px; object-fit: cover; border-radius: 15px; margin: 20px 0;" />
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=FOKanu&style=flat-square&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen" alt="Status" />
   <img src="https://img.shields.io/badge/Location-Global%20%7C%20Remote-blue" alt="Location" />
@@ -72,10 +68,6 @@ Reflecting current public activity (with brief summaries and tech stacks):
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200&h=200&fit=crop&crop=center" alt="Data Center Technology" style="width: 100%; max-width: 1200px; height: 200px; object-fit: cover; border-radius: 15px; margin: 20px 0; opacity: 0.8;" />
-</div>
-
-<div align="center">
 
 ### 🐍 Programming Languages
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -131,10 +123,6 @@ Reflecting current public activity (with brief summaries and tech stacks):
 ---
 
 ## 🌟 Current Focus & Learning
-
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=250&fit=crop&crop=center" alt="Global Technology Network" style="width: 100%; max-width: 1200px; height: 250px; object-fit: cover; border-radius: 15px; margin: 20px 0; opacity: 0.7;" />
-</div>
 
 <div align="center">
 
