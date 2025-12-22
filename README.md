@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://francis-kanu-innovate.lovable.app/" target="_blank">
+  <a href="https://www.franciskanu-innovates.com/" target="_blank">
     <img src="https://img.shields.io/badge/Web%20Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Web Portfolio" />
   </a>
 </div>
@@ -42,23 +42,25 @@ I'm a **Fullstack Engineer & Healthcare Technology Specialist** with a strong fo
 
 Reflecting current public activity (with brief summaries and tech stacks):
 
-- <a href="https://github.com/FOKanu/berlin-connect" target="_blank"><strong>Berlin Connect</strong></a> — A platform connecting people in Berlin for networking and community building.
-  - <em>Tech:</em> React • Node.js • Express • MongoDB • Socket.io
+- <a href="https://github.com/FOKanu/aria-agentic-systems" target="_blank"><strong>Aria Agentic Systems</strong></a> — Autonomous multi-agent framework designed for clinical decision support and healthcare workflow automation.
+  - <em>Tech:</em> Python • LangChain • LLMs • FastAPI • Vector DB
 
 - <a href="https://github.com/FOKanu/doctai-health-hub" target="_blank"><strong>DoctAI Health Hub</strong></a> — AI-powered telemedicine platform for skin diagnostics, appointment scheduling, and patient tracking.
   - <em>Tech:</em> Python • FastAPI • TensorFlow • React • PostgreSQL • Docker
 
-- <a href="https://github.com/FOKanu/SkinCancerCheckMobile" target="_blank"><strong>SkinCancerCheckMobile</strong></a> — Mobile app enabling remote capture and triage of skin lesion images.
+- <a href="https://github.com/FOKanu/skin-check-ai" target="_blank"><strong>Skin Check AI</strong></a> — Intelligent system enabling remote capture and triage of skin lesion images for early detection.
   - <em>Tech:</em> React Native • Expo • TensorFlow Lite • Firebase
 
-- <a href="https://github.com/FOKanu/My_MNIST_Image_Classification" target="_blank"><strong>My MNIST Image Classification</strong></a> — Notebooks comparing baseline and CNN models on MNIST with experiment tracking.
+- <a href="https://github.com/FOKanu/mood-sage" target="_blank"><strong>Mood Sage</strong></a> — AI-driven emotion recognition and mental health monitoring system.
+  - <em>Tech:</em> Python • Computer Vision • PyTorch • React • FastAPI
+
+- <strong>Machine Learning Notebooks</strong>
+  - <a href="https://github.com/FOKanu/ML-Notebook-Emotion-Classification" target="_blank"><strong>Emotion Classification</strong></a> — NLP and analysis of emotional states.
+  - <a href="https://github.com/FOKanu/My_MNIST_Image_Classification" target="_blank"><strong>MNIST Image Classification</strong></a> — Comparative analysis of models on MNIST.
   - <em>Tech:</em> Python • Jupyter • PyTorch/TensorFlow • NumPy • scikit-learn
 
-- <a href="https://github.com/FOKanu/NBA-Performance-Analysis-" target="_blank"><strong>NBA Performance Analysis</strong></a> — Exploratory analysis and visualizations on NBA datasets.
-  - <em>Tech:</em> Python • pandas • seaborn • Jupyter
-
 <div align="center">
-  <a href="https://francis-kanu-innovate.lovable.app/" target="_blank">
+  <a href="https://www.franciskanu-innovates.com/" target="_blank">
     <img src="https://img.shields.io/badge/Explore%20More-Visit%20my%20Web%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Web Portfolio" />
   </a>
 </div>
@@ -162,7 +164,7 @@ Reflecting current public activity (with brief summaries and tech stacks):
   <a href="https://linkedin.com/in/francis-i-k-817254286" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://francis-kanu-innovate.lovable.app/" target="_blank">
+  <a href="https://www.franciskanu-innovates.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:francis.ik@example.com" target="_blank">
