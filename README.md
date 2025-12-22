@@ -42,10 +42,10 @@ I'm a **Fullstack Engineer & Healthcare Technology Specialist** with a strong fo
 
 Reflecting current public activity (with brief summaries and tech stacks):
 
-- <a href="https://github.com/FOKanu/aria-agentic-systems" target="_blank"><strong>Aria Agentic Systems</strong></a> — Autonomous multi-agent framework designed for clinical decision support and healthcare workflow automation.
+- <a href="https://github.com/FOKanu/aria-agentic-systems" target="_blank"><strong>Aria Agentic Systems</strong></a> — Autonomous multi-agent framework designed for workflow automation accross administration, DevOps and Social Media Management.
   - <em>Tech:</em> Python • LangChain • LLMs • FastAPI • Vector DB
 
-- <a href="https://github.com/FOKanu/doctai-health-hub" target="_blank"><strong>DoctAI Health Hub</strong></a> — AI-powered telemedicine platform for skin diagnostics, appointment scheduling, and patient tracking.
+- <a href="https://github.com/FOKanu/doctai-health-hub" target="_blank"><strong>DoctAI Health Hub</strong></a> — AI-powered telemedicine platform for skin diagnostics, appointment scheduling, patient tracking and AI powered diagnostic suport.
   - <em>Tech:</em> Python • FastAPI • TensorFlow • React • PostgreSQL • Docker
 
 - <a href="https://github.com/FOKanu/skin-check-ai" target="_blank"><strong>Skin Check AI</strong></a> — Intelligent system enabling remote capture and triage of skin lesion images for early detection.
