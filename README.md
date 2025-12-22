@@ -26,15 +26,19 @@
 
 ## 🎯 About Me
 
-> *"Where clinical expertise meets fullstack engineering to build transformative healthcare solutions"*
+> *"Bridging clinical expertise, operational excellence, and data science to build transformative solutions"*
 
-I'm a **Fullstack Engineer & Healthcare Technology Specialist** with a strong foundation in clinical medicine and IT project management. My unique background combines medical knowledge with technical expertise to create innovative healthcare solutions that improve patient care and streamline clinical workflows.
+I am a multidisciplinary professional combining a strong foundation in **Medical Science** with expertise in **Data Science**, **Software Development**, and **Operations Management**.
+
+My journey began in the medical field, providing me with a deep understanding of clinical workflows and patient care. I expanded my versatility through the **hospitality industry**, where I gained first-hand experience in hotel operations and customer-centric service delivery.
+
+Now, as a **Certified Data Scientist** pursuing advanced education in **IT - Web Application and Software Development**, I leverage this diverse background to create innovative, user-friendly, and data-driven solutions that bridge the gap between complex operational needs and technical efficiency.
 
 ### 🧬 Core Focus Areas
-- **🩺 Healthcare Technology**: Clinical systems, telemedicine platforms, medical data management
-- **💻 Fullstack Development**: End-to-end application development, system architecture, user experience design
-- **📋 IT Project Management**: Healthcare IT implementation, system integration, clinical workflow optimization
-- **🔬 Clinical Informatics**: Medical data analysis, clinical decision support, healthcare analytics
+- **🩺 Healthcare Technology**: Designing systems that align with clinical workflows and medical standards
+- **📊 Data Science & Analytics**: Applying machine learning and data analysis to solve complex problems
+- **🏨 Operational Optimization**: Enhancing efficiency and user experience in service-oriented environments
+- **💻 Fullstack Engineering**: Building robust, scalable web applications and software solutions
 
 ---
 
@@ -117,9 +121,10 @@ Reflecting current public activity (with brief summaries and tech stacks):
 ## 🎓 Certifications & Education
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Clinical_Medicine-Healthcare_Technology-4ECDC4?style=for-the-badge&logo=medical&logoColor=white" alt="Clinical Medicine" />
-  <img src="https://img.shields.io/badge/Fullstack_Engineering-Web_Development-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Fullstack Engineering" />
-  <img src="https://img.shields.io/badge/IT_Project_Management-Healthcare_IT-FF6B35?style=for-the-badge&logo=project&logoColor=white" alt="IT Project Management" />
+  <img src="https://img.shields.io/badge/Medical_Science-Clinical_Workflows-4ECDC4?style=for-the-badge&logo=medical&logoColor=white" alt="Medical Science" />
+  <img src="https://img.shields.io/badge/Data_Science-Certified-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Web_Development-IT_%26_Software-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Web Development" />
+  <img src="https://img.shields.io/badge/Operations-Hospitality_Management-FF6B35?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Operations" />
 </div>
 
 ---
