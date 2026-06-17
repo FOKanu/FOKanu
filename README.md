@@ -32,7 +32,7 @@ I am a multidisciplinary professional combining a strong foundation in **Medical
 
 My journey began in the medical field, providing me with a deep understanding of clinical workflows and patient care. I expanded my versatility through the **hospitality industry**, where I gained first-hand experience in hotel operations and customer-centric service delivery.
 
-Now, as a **Certified Data Scientist** pursuing advanced education in **IT - Web Application and Software Development**, I leverage this diverse background to create innovative, user-friendly, and data-driven solutions that bridge the gap between complex operational needs and technical efficiency.
+Now, as a **Certified Data Scientist** pursuing advanced education in **IT - AI and Data Analytics**, I leverage this diverse background to create innovative, user-friendly, and data-driven solutions that bridge the gap between complex operational needs and technical efficiency.
 
 ### 🧬 Core Focus Areas
 - **🩺 Healthcare Technology**: Designing systems that align with clinical workflows and medical standards
