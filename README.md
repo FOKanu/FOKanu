@@ -153,12 +153,11 @@ Reflecting current public activity (with brief summaries and tech stacks):
 <details>
   <summary>Click to see my current goals</summary>
 
-  - [ ] Launch DoctAI in production with clinical validation
-  - [ ] Complete healthcare IT project management certification
-  - [ ] Publish research paper on clinical AI applications
-  - [ ] Reach 1000+ GitHub stars across healthcare projects
-  - [ ] Contribute to major open-source healthcare projects
-  - [ ] Develop clinical workflow optimization framework
+  - [ ] Sharpen my skills in integrating AI into existing workflows.
+  - [ ] Complete healthcare IT project management certification.
+  - [ ] Expand my knowledge on Agentic Modeling and AI Clustering.
+  - [ ] Delve into Embodied AI AKA Robotics.
+  - [ ] Develop clinical workflow optimization framework.
 </details>
 
 ---
