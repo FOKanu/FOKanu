@@ -41,7 +41,7 @@ Most of my recent work is in Python and TypeScript: ML notebooks and inference A
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FOKanu&theme=default" alt="Francis's GitHub stats" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FOKanu&theme=default" alt="Repositories per language" height="160" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=FOKanu&layout=compact&hide=html,css,shell,makefile&theme=default" alt="Top languages by code volume" height="160" />
 </div>
 
 ## Let's connect
