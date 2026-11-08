@@ -47,6 +47,7 @@ Most of my recent work is in Python and TypeScript: ML notebooks and inference A
 
 ## Let's connect
 
+- 🌐 [Portfolio — franciskanu-innovates.com](https://www.franciskanu-innovates.com/)
 - 💼 [LinkedIn — Francis O. I. Kanu](https://www.linkedin.com/in/francis-o-i-kanu-817254286/)
 - 💻 You're already on my GitHub — the featured projects above are the best way to evaluate my work
 
