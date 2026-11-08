@@ -40,8 +40,8 @@ Most of my recent work is in Python and TypeScript: ML notebooks and inference A
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FOKanu&show_icons=true&theme=default&hide_border=true" alt="Francis's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOKanu&layout=compact&theme=default&hide_border=true" alt="Top languages" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FOKanu&theme=default" alt="Francis's GitHub stats" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FOKanu&theme=default" alt="Repositories per language" height="160" />
 </div>
 
 ## Let's connect
