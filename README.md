@@ -2,6 +2,7 @@
 
 **AI/ML Engineer · Medical Science background · Berlin, Germany — open to remote**
 
+[![Web Portfolio](https://img.shields.io/badge/Web_Portfolio-franciskanu--innovates.com-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.franciskanu-innovates.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-francis--o--i--kanu-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-o-i-kanu-817254286/)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20AI%2FML%20%26%20Full--Stack%20roles-brightgreen)
 
